@@ -6,8 +6,8 @@
 
 ## Learning and interested in:
 - Cibersecurity
-- ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
 - Competitive Programming.
+- ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
 - ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
