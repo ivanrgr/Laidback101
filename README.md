@@ -1,6 +1,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Laidback101&show_icons=true&theme=merko)
 
-# Cibersecurity and code fanatic 🚀
+# 🚀
 
 <img align="center" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw"> 
 
